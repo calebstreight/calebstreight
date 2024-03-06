@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb, an <a href="https://linkedin.com/caleb-streight-6b20b32b6/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Caleb, an <a href="https://linkedin.com/in/caleb-streight-6b20b32b6/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
